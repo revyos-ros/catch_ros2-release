@@ -13,7 +13,7 @@ tracks:
     name: catch_ros2
     patches: null
     release_inc: '1'
-    release_repo_url: null
+    release_repo_url: git@github.com:revyos-ros/catch_ros2-release.git
     release_tag: :{version}
     ros_distro: humble
     vcs_type: git
