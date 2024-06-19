@@ -1,3 +1,26 @@
+## catch_ros2 (jazzy) - 0.2.1-3
+
+The packages in the `catch_ros2` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy catch_ros2 --override-release-repository-push-url git@github.com:revyos-ros/catch_ros2-release` on `Wed, 19 Jun 2024 01:25:43 -0000`
+
+The `catch_ros2` package was released.
+
+Version of package(s) in repository `catch_ros2`:
+
+- upstream repository: https://github.com/ngmor/catch_ros2.git
+- release repository: https://github.com/revyos-ros/catch_ros2-release.git
+- rosdistro version: `0.2.1-2`
+- old version: `0.2.1-2`
+- new version: `0.2.1-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## catch_ros2 (humble) - 0.2.1-2
 
 The packages in the `catch_ros2` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble catch_ros2` on `Mon, 20 May 2024 06:00:26 -0000`
